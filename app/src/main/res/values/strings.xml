@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="feed">전체</string>
+    <string name="politics">정치</string>
+    <string name="economy">경제</string>
+    <string name="society">사회</string>
+    <string name="it">IT</string>
+    <string name="sport">스포츠</string>
+</resources>
