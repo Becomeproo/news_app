@@ -39,4 +39,4 @@
 <br>
 
 ## 💡정리 블로그
-[Github 레포지토리 앱 정리 블로그](https://becomeproo.github.io/android/Android-Part2-%EB%89%B4%EC%8A%A4-%EC%95%B1/)
+[뉴스 앱 정리 블로그](https://becomeproo.github.io/android/Android-Part2-%EB%89%B4%EC%8A%A4-%EC%95%B1/)
